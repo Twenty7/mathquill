@@ -19,7 +19,7 @@
  *
  * Eoghan McIlwaine
  */
-define(['vendor/dom'], function (jQuery) {
+// define(['vendor/dom'], function (jQuery) {
 
 /**
  * Copyleft 2010-2011 Jay and Han (laughinghan@gmail.com)
